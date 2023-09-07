@@ -1,7 +1,8 @@
 ![image](https://user-images.githubusercontent.com/103913534/211488662-64c33856-0f05-4e33-8bbd-1a82beddba4c.png)
 
 <h1 align="center">Hi 👋, I'm Vikash kumar</h1>
-<h3 align="center">Final year BCA student looking an opportunity to enhance skills</h3>
+<h3 align="center">Motivated, Skilled and Innovative Software Developer with entry-level experience. Proficient in Object Oriented Programming, .Net core, SQL Server, DSA plus modern libraries and Framework. Passionate about creating APIs. Currently, seeking a position that requires innovative, challenging employment that will utilize my education and professional skills and offer advancement opportunities, where I can employ my skills and analytical abilities for the growth of the company while being resourceful, flexible, and loyal
+</h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRirEy2hBCvQ6E-nKY5L9F6U5KtPvMVZsDQ&usqp=CAU">
 
@@ -10,9 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Backend web development**
+- 🌱 I’m currently WOrking as **Full Stack .Net Developer**
 
-- 💬 Ask me about **Python, Java, JavaScript, C++, PL-SQl**
+- 💬 Ask me about **APIs, ASP.Net core, MVC, SQL Server, Angular**
 
 - 📫 How to reach me **mail2vicky2001@gmail.com**
 
@@ -21,9 +22,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vikash-kumar2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikash-kumar2001" height="30" width="40" /></a>
-<a href="https://instagram.com/vikashkumarvicky2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikashkumarvicky2001" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mail2vicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mail2vicky" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user_6ua0rakh3ok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user_6ua0rakh3ok" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
